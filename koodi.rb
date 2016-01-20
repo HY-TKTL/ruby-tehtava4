@@ -1,1 +1,3 @@
-# kirjoita koodi tänne
+def tulosta(x)
+  puts x.join
+end
