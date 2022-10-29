@@ -1,5 +1,4 @@
 # kirjoita koodi tänne
-
 def tulosta(n)
     n.each do |alkio|
         print alkio
